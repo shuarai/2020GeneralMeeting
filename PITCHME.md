@@ -1,5 +1,4 @@
-# 2020GeneralMeeting
-<div style="color:red;">テスト</div>
+# 部門別発表<br>～悦喜部～
 
 ### 1枚目のスライド
 
