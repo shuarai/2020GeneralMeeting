@@ -1,2 +1,2 @@
 # 2020GeneralMeeting
-<div style="color:black;">テスト</div>
+<div style="color:red;">テスト</div>
