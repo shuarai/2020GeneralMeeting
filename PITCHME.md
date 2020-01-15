@@ -1,6 +1,6 @@
 # 悦喜部<br>部門発表
 ---
-### <div style="vertical-align:top;">導入</div>
+### 導入
 
 
 ---
