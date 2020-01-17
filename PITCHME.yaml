@@ -11,4 +11,4 @@ footnote : "© LIFESYNC,Inc. All rights Reserved"
 slide-number: true
 
 #遷移設定
-transition : concave
+transition : zoom
