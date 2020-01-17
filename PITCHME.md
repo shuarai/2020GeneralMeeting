@@ -1,8 +1,7 @@
 # 悦喜部<br>部門発表
 ---
 ### 導入
-<div style="color:red;">あああ</div>
-theme
+<div style="color:red; margin-left:100px;">あああ</div>
 ---
 
 
