@@ -1,14 +1,14 @@
 #テーマの設定
 theme : sky
 
-
 #ロゴアイコンの設定
 logo : assets/img/logo_lifesync.jpg
-
 
 #フットノートの設定
 footnote : "© LIFESYNC,Inc. All rights Reserved"
 
-
 #スライドのページ数表示の設定
 slide-number: true
+
+#遷移設定
+transition : fade
